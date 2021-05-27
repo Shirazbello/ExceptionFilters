@@ -1,0 +1,13 @@
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.exe
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.deps.json
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.runtimeconfig.json
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.runtimeconfig.dev.json
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.dll
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.pdb
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.csprojAssemblyReference.cache
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.AssemblyInfoInputs.cache
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.AssemblyInfo.cs
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.csproj.CoreCompileInputs.cache
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.dll
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.pdb
+C:\C-Sharp\DotnecorePrograms\ExceptionFilters\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.genruntimeconfig.cache
